@@ -1,0 +1,14 @@
+.btn{
+    &-danger{
+        background: #e55959;
+    }
+    &-success{
+        background: #64e686;
+    }
+    &--visible {
+        display: block;
+    }
+    &--hidden{
+        display: none;
+    }
+}
